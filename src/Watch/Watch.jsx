@@ -3,8 +3,7 @@ import React, { useState } from 'react';
 import Item from './Item';
 
 import moment from 'moment';
-moment().format();
-moment().format('h:mm:ss')
+
 
 const Watch = () => {
 
